@@ -27,4 +27,5 @@ def myfunc():
     print(b+a)           #these are called local variables
                          #"a" is a global var in this situation
 myfunc()
-print (type(z))
+print(type(z))
+print(a)
